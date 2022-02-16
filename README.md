@@ -1,11 +1,10 @@
-### Hola amigos informáticos 👋
+### Hola amigos 👋
 Bienvenidos al perfil de ✨Dylan Padilla (KurokoInside)✨
 
 - 🔭 Actualmente estudio el 4to semestre de TIC'S en la PFLC
 - 🌱 Trabajo en Windows 11 y Pop OS Linux
-- 🤔 Para mi, GitHub es la herramienta perfecta para el desarrollo informático
+- 🤔 Para mi, GitHub es la herramienta perfecta para el desarrollo de diferentes proyectos
 - 📫 Instagram: @kurokoinside
-- 😄 Apodos: Koko, Kuroko, Fylan.
 - ⚡ Fun fact: Kuroko no es por Kuroko No Basket, sino de una combinación rara de palabras la cual no puedo recordar, pero aún así lo sigo usando.
 
 |   Hora/Día  |          Lunes         |         Martes         |       Miércoles      |         Jueves         |        Viernes       |

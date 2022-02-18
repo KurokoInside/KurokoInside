@@ -17,7 +17,7 @@ Bienvenidos al perfil de ✨Dylan Padilla (KurokoInside)✨🦐
 |  9:45-10:35 |    Biología   |    Historia   |   Biología  |    Historia   |  Literatura |
 | 10:35-11:05 |     Receso    |     Receso    |    Receso   |     Receso    |    Receso   |
 | 11:05-11:55 |     Física    |  Matemáticas  |    Inglés   |     Inglés    |   Historia  |
-| 12:00-12:50 |  Matemáticas  |     Inglés    | Comunidades |  Matemáticas  |      -      |
-| 12:55-13:45 |       -       |  Comunidades  | Comunidades |       -       |      -      |
+| 12:00-12:50 |  Matemáticas  |     Inglés    | Comunidades |     Física    |      -      |
+| 12:55-13:45 |       -       |  Comunidades  | Comunidades |  Matemáticas  |      -      |
 
 ![](https://images.cooltext.com/5584520.gif)
